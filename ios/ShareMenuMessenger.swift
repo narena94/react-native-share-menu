@@ -7,12 +7,6 @@
 //  Created by Gustavo Parreira on 27/07/2020.
 //
 
-import Foundation
-import MobileCoreServices
-import UIKit
-import Social
-import RNShareMenu
-
 @objc(ShareMenuMessenger)
 open class ShareMenuMessenger: NSObject {
     @objc public static func share(
